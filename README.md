@@ -1,6 +1,6 @@
 # 🗄️ Laiyon Database
 
-[![npm version](https://img.shields.io/npm/v/laiyon-database.svg)](https://www.npmjs.com/package/laiyon-database)
+[![npm version](https://img.shields.io/npm/v/laiyon-database.svg)](https://www.npmjs.com/package/@laiyon/database)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-blue.svg)](https://www.typescriptlang.org/)
 
