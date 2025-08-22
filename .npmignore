@@ -1,0 +1,23 @@
+# Development files
+src/
+tests/
+*.test.ts
+*.test.js
+tsconfig.json
+jest.config.cjs
+
+# Dependencies in templates should not be included
+starters/**/node_modules/
+starters/**/dist/
+starters/**/.env
+starters/**/package-lock.json
+
+# Development dependencies
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Git files
+.git/
+.gitignore
