@@ -1,6 +1,6 @@
 {
   "name": "@laiyon/database",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "system to configure databases with support for MongoDB, MySQL and PostgreSQL",
   "type": "module",
   "main": "dist/index.js",
