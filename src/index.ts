@@ -1,6 +1,3 @@
-// Exportar interfaces y tipos
-export * from './Interfaces/IDatabase'; // eslint-disable-line
-
 // Exportar servicio principal
 export { DatabaseConfigService } from './services/DatabaseConfigService'; // eslint-disable-line
 
