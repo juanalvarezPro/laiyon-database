@@ -9,9 +9,6 @@
     "build": "tsc",
     "dev": "ts-node --esm src/index.ts",
     "start": "node dist/index.js",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage",
     "clean": "rm -rf dist",
     "prebuild": "npm run clean"
   },
@@ -46,11 +43,8 @@
     "ora": "^8.2.0"
   },
   "devDependencies": {
-    "@types/jest": "^30.0.0",
     "@types/node": "^24.2.1",
     "@types/pg": "^8.15.5",
-    "jest": "^30.0.5",
-    "ts-jest": "^29.4.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
   }
